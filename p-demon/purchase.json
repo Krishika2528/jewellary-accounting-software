@@ -1,0 +1,13 @@
+[
+    {
+        "product": "Silver",
+        "quantity": 10,
+        "weight": 100.0,
+        "name": "Kishor",
+        "contact": "7373996677",
+        "amount": 120.0,
+        "payment_method": "cash",
+        "purity_percentage": 92.5,
+        "purity": 92.5
+    }
+]
